@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Zadok Joshua, a fourth-year student at the Federal University of Technology Minna studying mechanical engineering. My current goals are to learn and seek opportunities in the field of cloud data engineering and IoT. 
+I am Zadok Joshua, a fourth-year student at the Federal University of Technology Minna studying mechanical engineering. My current goals are to learn and seek opportunities in the field of software engineering. 
 
 📫 How to reach me: 
 - ayegbazadok@outlook.com
